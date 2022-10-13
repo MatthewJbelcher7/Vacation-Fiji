@@ -1,6 +1,16 @@
-.col-3 {
-  border: 2px solid;
+.col-md-4 {
 }
 .col-3 p {
   border: 2px solid green;
+}
+
+.card {
+  background-color: rgba(83, 135, 247, 0.61);
+  color: white;
+  border-radius: 15px;
+}
+
+body {
+  background-image: url("../img/Fuji3.jpg");
+  background-size: cover;
 }
