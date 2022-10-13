@@ -1,0 +1,6 @@
+.col-3 {
+  border: 2px solid;
+}
+.col-3 p {
+  border: 2px solid green;
+}
